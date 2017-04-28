@@ -13,7 +13,7 @@ public class GlobalData {
     public static final String API_HOST = "https://ali-weather.showapi.com";
     public static final String API_PATH = "/ip-to-weather";
     public static final String API_METHOD = "GET";
-    public static final String API_APP_CODE = "abe840e278484bfa8028852db00a6b7f"; // 填写申请的appCode
+    public static final String API_APP_CODE = "yourOwnAppCode"; // 填写申请的appCode
     //api接口地址：https://market.aliyun.com/products/57096001/cmapi010812.html#sku=yuncode481200005
 
     public static final String API_TEST_IP = "114.242.248.207";
