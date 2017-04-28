@@ -6,4 +6,4 @@ api：https://market.aliyun.com/products/57096001/cmapi010812.html#sku=yuncode48
 
 
 
-![screenShot](./screenShot/screenShot.jpg)
+![screenShot](./screenShot/screenShot.png)
